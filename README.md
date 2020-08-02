@@ -1,2 +1,2 @@
 # tadaima
-Quoridorn用
+画像保存
